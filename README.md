@@ -1,7 +1,7 @@
 Hi 👋 My name is Abdul-Rahime Kadri
 ===================================
 
-Hello, i'm currently learning how to code through multiple platforms such as the Odin project and Harvard CS50 course. I started out with Python, moved onto HTML, CSS & JS and now working on ReactJS database, C, SQlite database & flask framework.
+Hello, i'm currently learning how to code through multiple platforms such as the Odin project and Harvard CS50 course. I started out with Python, moved onto HTML, CSS & JS and now working on ReactJS database.
 
 * 🌍  I'm based in Edmonton & Calgary
 * ✉️  You can contact me at [abdul.r.kadri@gmail.com](mailto:abdul.r.kadri@gmail.com)
